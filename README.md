@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya-Patra9437
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning node js and react js.
+- 👀 I’m interested in python development.
+- 🌱 I’m currently learning data science and machine learning.
 - 📫 I love coding.
 
 <!---
